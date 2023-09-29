@@ -39,7 +39,10 @@ setup(
     url=URL,
     license=LICENSE,
     packages=find_packages(),
+    python_requires='>=3.9',
     install_requires=INSTALL_REQUIRES,
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     #package_data=PACKAGE_DATA,
     #classifiers=CLASSIFIERS,
 )
