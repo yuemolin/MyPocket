@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 # Package metadata
 NAME = 'MyPocket'
 DESCRIPTION = 'Collect some interesting computation tools'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 AUTHOR = 'Molin Yue'
 EMAIL = 'yuemolin@umich.edu'
 URL = 'https://github.com/yuemolin/ToolBox'
