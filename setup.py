@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 # Package metadata
-NAME = 'Pocket-of-Doraemon'
+NAME = 'MyPocket'
 DESCRIPTION = 'Collect some interesting computation tools'
 VERSION = '0.1.0'
 AUTHOR = 'Molin Yue'
